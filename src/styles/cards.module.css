@@ -1,56 +1,57 @@
 .cardsContainer {
-  margin-top: 25px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+	margin-top: 25px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
 }
 
 .card {
-  width: 380px;
-  height: 200px;
-  border-radius: 5px;
-  padding: 30px;
-  position: relative;
+	width: 400px;
+	height: 200px;
+	border-radius: 5px;
+	padding: 30px;
+	position: relative;
 }
 
 .card img {
-  position: absolute;
+	position: absolute;
 }
 
 .mango {
-  height: 200px;
-  bottom: -10px;
-  right: 20px;
+	height: 200px;
+	bottom: -10px;
+	right: 20px;
 }
 
 .banana {
-  height: 170px;
-  bottom: 20px;
-  right: 0px;
+	height: 170px;
+	bottom: 20px;
+	right: 0px;
 }
 
 .veg {
-  height: 130px;
-  bottom: 30px;
-  right: 20px;
+	height: 130px;
+	bottom: 30px;
+	right: 20px;
 }
 
 .pink {
-  background-color: #ff81c8;
+	background-color: rgb(202, 58, 82);
 }
 
 .orange {
-  background-color: #f9bb4a;
+	background-color: rgb(255, 165, 0);
 }
 
 .blue {
-  background-color: #84e9fb;
+	background-color: rgb(23, 221, 205);
 }
 
 .caption {
-  font-family: "Poppins", sans-serif;
-  font-size: 24px;
-  text-transform: uppercase;
-  color: #101010;
-  letter-spacing: 3px;
+	font-family: 'Poppins', sans-serif;
+	font-size: 24px;
+	text-transform: uppercase;
+	color: #101010;
+	letter-spacing: 3px;
 }
+
